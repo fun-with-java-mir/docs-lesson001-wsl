@@ -49,5 +49,31 @@ https://www.debian.org/
 https://ubuntu.com/desktop - funfact: antivirus detected some malicious js on their homepage :-)
 <img width="1392" height="602" alt="image" src="https://github.com/user-attachments/assets/c5df69ac-ddd7-4608-8dc8-37a2399ff9be" />
 
+**openSUSE**
+Like always in old times (I so old :-)) started project based on .rpm packages like redHat but with own repositories. After some time it was covered by Novell, famous network company which bring into suse tools for graphical settings on HW and network, when I used it it was haven after revriting configs on ubuntu in console. Time goes on and Suse linux evolved into independent company which delivers enterprice version for business **SUSE-Linux-Enterprise**, opensource version **openSUSE-Leap** for users on desktop and **openSUSE-Tumbleweed** for geeks. All distributions has server lightweight version for clouds. 
+
+https://www.suse.com/products/server/
+<img width="937" height="700" alt="image" src="https://github.com/user-attachments/assets/9a1fca55-8f08-496d-afdb-15ab5189d13b" />
+
+https://get.opensuse.org/desktop/
+<img width="2239" height="702" alt="image" src="https://github.com/user-attachments/assets/dd27c9b1-a9e4-42b2-b5ec-ff7ddc20f0e2" />
 
 
+**kali-linux**
+It is OS based on debian, practically it is some cyber security distribution with 600 tools for monitoring systems and network, I am not sure if it is good choice for WSL, because wsl is little defensive in crossing line between linux and windows. 
+
+https://www.kali.org/
+<img width="1149" height="474" alt="image" src="https://github.com/user-attachments/assets/7f47517b-7045-45af-b9c1-5e283c77ac69" />
+
+**archlinux**
+It is hardcore system, with own packaging mechanism and without mainstream software support. When you want something besides command line, you have to write or reuse compile scripts and install it manually. It can be faster than light beam but that effort and time spended on maintanance will be for yung and enthusiastic people. And times when I recompiled graphic drivers every month and new distro every hal year are in long past away.
+
+https://archlinux.org/ - dont expect pictures :-)
+<img width="1897" height="530" alt="image" src="https://github.com/user-attachments/assets/4e8c495f-cd99-4cf3-86f0-8595e323479f" />
+
+
+**OracleLinux**
+One of OS that I never used (and I tried almost everything, even solaris :-)) Oracle developed system compatible with RHEL and used for his applications in cloud and oracleDB. It is eneterprice version for business = stable and secure, pricing is for support and it can be needed when you try some unexpected applications. Common user has no reason to use it.
+
+https://www.oracle.com/linux/
+<img width="1397" height="626" alt="image" src="https://github.com/user-attachments/assets/b1dfcf35-7161-4622-9032-09ee68efcf51" />
